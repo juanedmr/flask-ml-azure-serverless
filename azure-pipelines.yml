@@ -14,7 +14,7 @@ variables:
   webAppName: 'test-flask-service'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'local'
 
   # Environment name
   environmentName: 'test-flask-service'
