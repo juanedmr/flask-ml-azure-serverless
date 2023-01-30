@@ -25,6 +25,7 @@ variables:
   # Python version: 3.7
   pythonVersion: '3.11'
 
+
 stages:
 - stage: Build
   displayName: Build stage
